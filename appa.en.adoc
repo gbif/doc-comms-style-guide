@@ -5,20 +5,20 @@ In general, capitalize acronyms like MOU, HOD, MOC and avoid "camelCase" hybrids
 
 === International and intergovernmental bodies and other partners/programs
 
-CBD Convention on Biological Diversity
-CITES   Convention on International Trade in Endangered Species of Wild Fauna and Flora
-EU BON
-GEO BON   
-IPBES   Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services: 
-IPCC
-IUCN    International Union for the Conservation of Nature
-UNEP    United Nations Environmental Programme
+* CBD Convention on Biological Diversity
+* CITES   Convention on International Trade in Endangered Species of Wild Fauna and Flora
+* EU BON
+* GEO BON   
+* IPBES   Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services: 
+* IPCC
+* IUCN    International Union for the Conservation of Nature
+* UNEP    United Nations Environmental Programme
 
 === GBIF acronyms
 
 The following acronyms are unique within GBIF. Use them carefully in external communications.
 
-BIF
-DwC
-DwC-A
-IPT
+- BIF
+- DwC
+- DwC-A
+- IPT
