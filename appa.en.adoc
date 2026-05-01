@@ -1,6 +1,8 @@
 [appendix-a]
 == Acronyms
 
+In general, capitalize acronyms like MOU, HOD, MOC and avoid "camelCase" hybrids like MoU, HoD, MoC (notable exception being DwC).
+
 === International and intergovernmental bodies and other partners/programs
 
 CBD Convention on Biological Diversity
