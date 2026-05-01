@@ -13,4 +13,6 @@ This recommendation is relaxed on GBIF.org itself, where it is safer to assume t
 
 === GBIF Participants
 
+- What is referred to as an "Other Associate Participant" in the MOU can in practice be called an "Organizational Participant" or OAP (which then also works as an acronym for "Organizational Associate Participant")
+
 === GBIF network
