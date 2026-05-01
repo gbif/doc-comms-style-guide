@@ -18,3 +18,7 @@ Do not capitalize the words	federal, state, or government when not part of a ful
 
 * Many nodes are housed within government ministries and agencies.
 * GBIF receives funding from the U.S. federal government funding in support of our projects and programmes.
+
+=== GBIF-specifics
+
+The word “Node” is never capitalized as a generally descriptive noun or adjective, save for “Node Steering Group” and "Node Managers Committee".
